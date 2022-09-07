@@ -119,14 +119,14 @@
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=P2K0&theme=react&border=61dafb&hide_border=true"
-        width="350"
+        width="400"
       />
     </a>
     <a align="right" href="https://github.com/P2K0/webpack5-vue2-template" title="webpack5-vue2-template">
        <img
         align="right"
         src="https://github-readme-stats.vercel.app/api?username=P2K0&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-        width="350"
+        width="400"
       />
     </a>
   </p>
