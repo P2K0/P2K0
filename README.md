@@ -73,19 +73,11 @@
 
 <!-- walkTime -->
 <div align="center">
-  <img src="https://wakatime.com/share/@af1453aa-0c6e-46dc-9bc5-c985c4927a85/2b0389e1-09ca-4abf-9377-41040fd9160d.svg" />
+  <img src="https://wakatime.com/share/@af1453aa-0c6e-46dc-9bc5-c985c4927a85/3660a30a-0c6a-4310-bb58-eec8ce5a4259.svg" />
 </div>
 
 <br>
 <br>
-
-<!-- 贪吃蛇效果 -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/P2K0/P2K0/contribution-snake/github-contribution-grid-snake.svg" />
-</div>
-
-<br />
-<br />
 
  <!-- 仓库 -->
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
