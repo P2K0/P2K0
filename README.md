@@ -1,154 +1,98 @@
-<!-- 打字效果 -->
-<h1 align="center">
-  <a>
-    <img
-      src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);P2K0&center=true&size=27"
-    />
-  </a>
-</h1>
-
-<br />
-<br />
-
-<!-- 编码效果 -->
-<div align="center">
-  <img order-radius="100px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-</div>
-
-<br />
-<br />
-
-<!-- 个人详情 -->
-<div align="center">
-  <a href="https://p2k0.com/">
-    <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" />
-  </a>
-  &emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=P2K0" alt="访客统计" />
-</div>
-
-<br />
-<br />
-
-<!-- 技能 -->
-<div align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img
-    alt="Webpack"
-    src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"
-  />
-  <img
-    alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
-  />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img
-    alt="Rollup"
-    src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white"
-  />
-  <img
-    alt="Prettier"
-    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
-  />
-  <img
-    alt="Nodejs"
-    src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
-  />
-</div>
-
-<br />
-<br />
-
-<!-- GitHub奖杯 -->
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=P2K0&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true"
-  />
-</div>
-
- <br />
-
-<!-- walkTime -->
-<div align="center">
-  <img src="https://wakatime.com/share/@af1453aa-0c6e-46dc-9bc5-c985c4927a85/3660a30a-0c6a-4310-bb58-eec8ce5a4259.svg" />
-</div>
-
-<br>
-<br>
-
- <!-- 仓库 -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
-<br />
 
 <p align="center">
-  <a align="left" href="https://github.com/P2K0/webpack5-vue2-template" title="webpack5-vue2-template">
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=P2K0&repo=webpack5-vue2-template&theme=react&border_color=61dafb&border_radius=10"
-    />
-  </a>
-  <a align="right" href="https://github.com/P2K0/webpack5-vue2-template" title="webpack5-vue2-template">
-    <img
-      align="right"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=P2K0&repo=webpack5-vue2-template&theme=react&border_color=61dafb&border_radius=10"
-    />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Frontend%20Engineer%20%2F%20AI%20Specialist;Building%20AgentLens%20AI%20...&center=true&width=600&height=50&size=27&color=61dafb" />
 </p>
 
-<br /><br /><br /><br /><br /><br />
-
-<!-- 统计 -->
-<h2 align="center">⚡ Start ⚡</h2>
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" />
+</p>
 
 <div align="center">
-  <p align="center">
-    <a align="left" href="https://github.com/P2K0/webpack5-vue2-template" title="webpack5-vue2-template">
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=P2K0&theme=react&border=61dafb&hide_border=true"
-        width="400"
-      />
-    </a>
-    <a align="right" href="https://github.com/P2K0/webpack5-vue2-template" title="webpack5-vue2-template">
-       <img
-        align="right"
-        src="https://github-readme-stats.vercel.app/api?username=P2K0&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-        width="400"
-      />
-    </a>
-  </p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-  <img
-    src="https://activity-graph.herokuapp.com/graph?username=P2K0&theme=react-dark&bg_color=20232a&hide_border=true"
-    width="100%"
-  />
+  <a href="https://p2k0.com/">
+    <img src="https://img.shields.io/badge/Website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://api.visitorbadge.io/api/visitors?path=P2K0&label=VIEWS&labelColor=%23555555&countColor=%23007bff&style=for-the-badge" />
 </div>
 
-<br />
-<br />
+<br/>
 
-<!-- plugin metrics -->
+## 💫 About Me
+
+> [!TIP]
+> **Frontend Engineer** based in China, specializing in **AI-driven applications**.
+
+- 🤖 **AI & Agents**: Passionate about **AI Agents**, LLM integration, and Web Development.
+- 💹 **Crypto**: Interested in **Crypto Trading** and applying AI to financial analysis.
+- 💻 **Tech Focus**: Proficient in **React, Vue, Node.js**, and building autonomous workflows.
+
+---
+
+## ✨ Tech Stack
+
+### 🚀 Frontend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+</p>
+
+### 🤖  Backend & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+### 🎨 Styles & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Less-1D365D?style=flat-square&logo=less&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/UniApp-2B9939?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Taro-000000?style=flat-square&logo=react&logoColor=61dafb" />
+</p>
+
+### 📦 Build & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tsup-333333?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECharts-AA0202?style=flat-square&logo=apache-echarts&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/043fa247ce347f851a4e3f65eabf8ef952cd5d046e9c9dcbc8143bb2d94d16c4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131313032313932363730342e706e67" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p2k0/p2k0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p2k0/p2k0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/p2k0/p2k0/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
- <!-- more -->
+<br/>
+
+<div align="center">
+  <img src="https://wakatime.com/share/@af1453aa-0c6e-46dc-9bc5-c985c4927a85/3660a30a-0c6a-4310-bb58-eec8ce5a4259.svg" width="100%" />
+</div>
+
+<br/>
+
 <h4 align="center">
-  <a href="https://github.com/P2K0?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  Copyright © 2026 <a href="https://github.com/P2K0">P2K0</a>
 </h4>
