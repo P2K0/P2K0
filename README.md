@@ -87,12 +87,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://wakatime.com/share/@af1453aa-0c6e-46dc-9bc5-c985c4927a85/3660a30a-0c6a-4310-bb58-eec8ce5a4259.svg" width="100%" />
-</div>
-
-<br/>
-
 <h4 align="center">
   Copyright © 2026 <a href="https://github.com/P2K0">P2K0</a>
 </h4>
